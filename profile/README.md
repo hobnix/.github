@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/hobnix/core/main/.github/branding/banner@2x.webp" alt="hobnix" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/hobnix/core/HEAD/.github/branding/banner@2x.webp" alt="hobnix" width="100%"></p>
 
 # Hobnix
 
@@ -16,3 +16,4 @@ with `hs pkg repo add`. The older repositories `recipes`, `extensions` and `capa
 
 **Install:** [install guide](https://github.com/hobnix/core/blob/main/docs/install.md).
 **Docs:** the guides are in the [docs folder of core](https://github.com/hobnix/core/tree/main/docs) and start with the [overview](https://github.com/hobnix/core#readme).
+**Licences:** core is AGPL-3.0-or-later. In `official` the recipes are MIT and the rest is AGPL-3.0. A community package keeps its author's licence.
